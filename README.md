@@ -6,6 +6,6 @@ Code for generating anchors from thermal_annotations.json file (FLIR ADAS datase
 # make_img_paths
 Code for adding all image paths to train.txt and test.txt file
 # B_box
-Code for adding bounding boxes and class lebels in video from prediction. Model used is Darkflow's Tiny-yolo-voc on Indian uto-rickshaw dataset.
+Code for adding bounding boxes and class lebels in video from prediction. Model used is Darkflow's Tiny-yolo-voc on Indian auto-rickshaw dataset.
 # link to our Google Colab notebook where we tried training FLIR ADAS dataset on YoloV3-spp model
 https://colab.research.google.com/drive/16qI4FzTJjRJEF__RwxmYFLzr7RMmOszk?usp=sharing
