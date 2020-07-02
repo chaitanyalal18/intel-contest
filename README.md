@@ -1,4 +1,5 @@
 # intel-contest
+Object Detection in twilight or night time conditions.
 # TL-detection code
 This code includes the gamma filter and tail-light detection part.
 # YOLOv3_get_anchors
