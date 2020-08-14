@@ -12,5 +12,7 @@ Code for adding bounding boxes and class lebels in video from prediction. Model 
 Convert thermal.json file to yolo format.
 # link to our Google Colab notebook where we tried training FLIR ADAS dataset on YoloV3-spp model
 https://colab.research.google.com/drive/16qI4FzTJjRJEF__RwxmYFLzr7RMmOszk?usp=sharing
+# Trained weight file
+https://drive.google.com/file/d/1l_kRl_TKYhRoqlCE2ae05COTWbTK9rHB/view?usp=sharing
 # Predictions.ipynb
 Prediction using the custom trained weights on FLIR ADAS Dataset.
